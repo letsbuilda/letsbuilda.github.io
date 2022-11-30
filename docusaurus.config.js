@@ -51,7 +51,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
         ({
             navbar: {
-                title: 'My Site',
+                title: 'Let\'s Build a ...',
                 logo: {
                     alt: 'My Site Logo',
                     src: 'img/logo.svg',
@@ -59,9 +59,9 @@ const config = {
                 items: [
                     {
                         type: 'doc',
-                        docId: 'intro',
+                        docId: 'projects',
                         position: 'left',
-                        label: 'Tutorial',
+                        label: 'Projects',
                     },
                     {
                         href: 'https://github.com/letsbuilda',
