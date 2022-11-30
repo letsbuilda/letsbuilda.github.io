@@ -37,7 +37,7 @@ const config = {
                     // Please change this to your repo.
                     // Remove this to remove the "edit this page" links.
                     editUrl:
-                        'https://github.com/letsbuilda/letsbuilda.github.io/',
+                        'https://github.com/letsbuilda/letsbuilda.github.io/tree/main/',
                 },
                 blog: false,
                 theme: {
@@ -61,7 +61,7 @@ const config = {
                         type: 'doc',
                         docId: 'projects',
                         position: 'left',
-                        label: 'Projects',
+                        label: 'Projects ',
                     },
                     {
                         href: 'https://github.com/letsbuilda',
