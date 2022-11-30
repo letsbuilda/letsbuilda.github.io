@@ -1,0 +1,5 @@
+# JetBrains
+.idea
+
+# TypeScript
+node_modules
