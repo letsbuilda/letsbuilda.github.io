@@ -1,5 +1,5 @@
 # JetBrains
 .idea
 
-# TypeScript
-node_modules
+# Generated content
+_site
