@@ -10,6 +10,8 @@ baseURL = 'https://letsbuilda.dev/'
 enableRobotsTXT = true
 paginate = 15
 
+disableKinds = ["taxonomyTerm"]
+
 [params]
 description = "Let's build A ..."
 defaultTheme = "auto"
