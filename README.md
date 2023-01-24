@@ -1,3 +1,3 @@
-# letsbuilda.dev
+# docs.letsbuilda.dev
 
-Content for https://letsbuilda.dev
+Content for https://docs.letsbuilda.dev
